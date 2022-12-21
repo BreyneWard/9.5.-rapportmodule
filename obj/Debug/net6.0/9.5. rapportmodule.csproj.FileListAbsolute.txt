@@ -1,0 +1,15 @@
+D:\multimedi\Cscherp\9.5. rapportmodule\bin\Debug\net6.0\9.5. rapportmodule.exe
+D:\multimedi\Cscherp\9.5. rapportmodule\bin\Debug\net6.0\9.5. rapportmodule.deps.json
+D:\multimedi\Cscherp\9.5. rapportmodule\bin\Debug\net6.0\9.5. rapportmodule.runtimeconfig.json
+D:\multimedi\Cscherp\9.5. rapportmodule\bin\Debug\net6.0\9.5. rapportmodule.dll
+D:\multimedi\Cscherp\9.5. rapportmodule\bin\Debug\net6.0\9.5. rapportmodule.pdb
+D:\multimedi\Cscherp\9.5. rapportmodule\obj\Debug\net6.0\9.5. rapportmodule.csproj.AssemblyReference.cache
+D:\multimedi\Cscherp\9.5. rapportmodule\obj\Debug\net6.0\9.5. rapportmodule.GeneratedMSBuildEditorConfig.editorconfig
+D:\multimedi\Cscherp\9.5. rapportmodule\obj\Debug\net6.0\9.5. rapportmodule.AssemblyInfoInputs.cache
+D:\multimedi\Cscherp\9.5. rapportmodule\obj\Debug\net6.0\9.5. rapportmodule.AssemblyInfo.cs
+D:\multimedi\Cscherp\9.5. rapportmodule\obj\Debug\net6.0\9.5. rapportmodule.csproj.CoreCompileInputs.cache
+D:\multimedi\Cscherp\9.5. rapportmodule\obj\Debug\net6.0\9.5. rapportmodule.dll
+D:\multimedi\Cscherp\9.5. rapportmodule\obj\Debug\net6.0\refint\9.5. rapportmodule.dll
+D:\multimedi\Cscherp\9.5. rapportmodule\obj\Debug\net6.0\9.5. rapportmodule.pdb
+D:\multimedi\Cscherp\9.5. rapportmodule\obj\Debug\net6.0\9.5. rapportmodule.genruntimeconfig.cache
+D:\multimedi\Cscherp\9.5. rapportmodule\obj\Debug\net6.0\ref\9.5. rapportmodule.dll
